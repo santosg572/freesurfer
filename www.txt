@@ -1,0 +1,3 @@
+https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferBeginnersGuide
+https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/Data
+
